@@ -1,0 +1,33 @@
+########## FILES ##########
+
+*.bat
+*.crt
+*.debug
+*.html
+*.js
+*.json
+*.lnk
+*.log
+*.pem
+*.svg
+*.ts
+*.txt
+*.url
+#*.zip
+
+########## FOLDERS ##########
+
+#***/.backup/***
+***/.dist/***
+***/.example/***
+***/.log/***
+***/.security/***
+***/.web/***
+
+***/managed_node_modules/***
+***/node_modules/***
+
+########## ROOT FILES ##########
+
+.CMD.exe
+.conf--framework--value.json
