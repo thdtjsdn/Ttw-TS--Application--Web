@@ -1,13 +1,17 @@
 ########## FILES ##########
 
 *.bat
+*.css
 *.crt
 *.debug
+*.gitkeep
+*.gz
 *.html
 *.js
 *.json
 *.lnk
 *.log
+*.map
 *.pem
 *.svg
 *.ts
