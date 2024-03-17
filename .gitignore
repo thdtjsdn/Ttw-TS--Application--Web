@@ -2,6 +2,7 @@
 
 *.bat
 *.css
+*.csv
 *.crt
 *.debug
 *.gitkeep
@@ -22,6 +23,7 @@
 ########## FOLDERS ##########
 
 #***/.backup/***
+***/.data/***
 ***/.dist/***
 ***/.example/***
 ***/.log/***
